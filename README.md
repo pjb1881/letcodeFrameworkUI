@@ -1,6 +1,6 @@
-# LetcodeAutomation 🚀
+# letcodeFrameworkUI 🚀
 
-LetcodeAutomation is a simple Selenium-based test automation framework created during my initial learning phase of Automation Testing in the latter half of 2022. It is designed to automate and validate several functionalities on the [LetCode](https://letcode.in/) practice site.
+letcodeFrameworkUI is a simple Selenium-based test automation framework created during my initial learning phase of Automation Testing in the latter half of 2022. It is designed to automate and validate several functionalities on the [LetCode](https://letcode.in/) practice site.
 
 > 📌 **Note:** This is an early-stage learning project and may not reflect current best practices in automation architecture or tooling.
 
@@ -26,10 +26,10 @@ letcodeAutomation/
 ├── src/
 │ ├── main/
 │ │ └── java/
-│ │ └── com.web.letcode/ → Core logic (locators, screens, utilities)
+│ │ └── com.web.letcodeFrameworkUI/ → Core logic (locators, screens, utilities)
 │ └── test/
 │ └── java/
-│ └── com.web.letcode.tests/ → Test classes using TestNG
+│ └── com.web.letcodeFrameworkUI.tests/ → Test classes using TestNG
 │ └── resources/
 │ ├── Reports/ → ExtentReport HTML outputs
 │ └── utilities/
